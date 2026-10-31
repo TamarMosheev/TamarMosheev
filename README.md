@@ -1,7 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:3D7BF7,100:3DDC84&height=200&section=header&text=Tamar%20Mosheev&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Android%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Tamar Mosheev header"/>
+<div align="center">
 
 <a href="https://github.com/TamarMosheev">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=7F52FF&center=true&vCenter=true&width=720&lines=Hi+there%2C+I'm+Tamar!+%F0%9F%91%8B;Backend+%26+Android+Developer+%F0%9F%93%B1;Turning+complex+problems+into+real-world+software+solutions;Python+%E2%80%A2+Kotlin+%E2%80%A2+FastAPI+%E2%80%A2+Firebase" alt="Typing SVG" />
@@ -20,8 +18,6 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamarMosheev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages"/>
-
 Hi! I'm **Tamar**, a **B.Sc. Software Engineering graduate** who loves building things that are both smart under the hood and pleasant to use.
 
 My sweet spot is where **algorithms meet real products**: optimization engines, REST APIs, and native Android apps that people actually use.
@@ -34,8 +30,6 @@ My sweet spot is where **algorithms meet real products**: optimization engines, 
 - 💼 **Open to Backend / Android roles**
 
 > ⚡ **Fun fact:** I once wrote a full recursive-descent parser just so my calculator wouldn't have to use `eval()` 😄
-
-<br clear="right"/>
 
 ---
 
@@ -57,7 +51,7 @@ My sweet spot is where **algorithms meet real products**: optimization engines, 
 
 **⚙️ DevOps & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,jira,vercel&perline=7" alt="DevOps and tools"/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,vercel&perline=6" alt="DevOps and tools"/>
 
 <br/>
 
@@ -72,6 +66,7 @@ My sweet spot is where **algorithms meet real products**: optimization engines, 
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square)
 ![Qase](https://img.shields.io/badge/Qase-4F46E5?style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Test Design](https://img.shields.io/badge/Test_Case_Design-64748B?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
@@ -191,7 +186,6 @@ E-commerce platform with auth, catalog search & filters, cart, wishlist and orde
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TamarMosheev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats"/>
 <img height="170" src="https://streak-stats.demolab.com?user=TamarMosheev&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
@@ -207,7 +201,5 @@ If you're building something interesting, I'd love to hear about it! 💜
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamar-mosheev/)
 [![Repositories](https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TamarMosheev?tab=repositories)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,50:3D7BF7,100:7F52FF&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
