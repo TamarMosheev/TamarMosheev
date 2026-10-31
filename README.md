@@ -1,5 +1,5 @@
 <!-- ===================== HEADER ===================== -->
-<div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:3D7BF7,100:3DDC84&height=200&section=header&text=Tamar%20Mosheev&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Android%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Tamar Mosheev header"/>
 
