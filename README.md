@@ -182,16 +182,6 @@ E-commerce platform with auth, catalog search & filters, cart, wishlist and orde
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=TamarMosheev&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
